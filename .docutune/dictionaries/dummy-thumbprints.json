@@ -1,7 +1,7 @@
 // Testing comment
 {
     "thumb|thumbprint|thumbprints|hash|certHash|signingCertThumbprint|certThumbprint|certificateIssuerThumbprint|certificateIssuerThumbprints|certificateFindValue|certificateFindValueBySecondary|clientCertificateThumbprint|certificateThumbprint|serverCertThumbprint|certificateRemoteThumbprints|remoteCertThumbprints|findByThumbprint": [
-        "WWE1BB22CC33DD44EE55FF66AA77BB88CC99DD00",
+        "AA11BB22CC33DD44EE55FF66AA77BB88CC99DD00",
         "BB22CC33DD44EE55FF66AA77BB88CC99DD00EE11",
         "CC33DD44EE55FF66AA77BB88CC99DD00EE11FF22",
         "DD44EE55FF66AA77BB88CC99DD00EE11FF22AA33",
